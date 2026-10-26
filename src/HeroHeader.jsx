@@ -245,7 +245,7 @@ export default function HeroHeader() {
 
                 <div className="max-w-xl text-white">
                     <h1 className="text-4xl font-bold leading-tight md:text-6xl">
-                        Hola, soy Tu Nombre
+                        Hola, soy JUAN DAVID
                     </h1>
                     <p className="mt-4 text-lg text-white/80 md:text-xl">
                         Ingeniero en formación · Desarrollo web e interfaces 3D
